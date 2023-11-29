@@ -126,11 +126,12 @@ while True:
 
     else:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
+```
 ## Penjelasan
 Pada dasar ny program ini sama seperti di Pertemuan-10, bedanya di program ini di tambahkan Function / Sub rutin. Seperti program ada di atas def yg berati definision, & contoh def garis() Untuk membuat fungsi garis yg di panggil dari print("~"*80).
 
 Kalau def tambah(), def ubah(), def hapus(), def cari(), def lihat() di panggil dari program berikut :
-
+```python
 while True: 
     print()
     menu = input("[(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar] : ")
@@ -158,6 +159,6 @@ while True:
 
     else:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
+```
 ## Hasil
-![sspraktikum11](https://github.com/RadityaTansyLizara/Praktikum11/assets/147571863/52e59ea7-0a5d-4ef2-8c44-7eceb7e86386)
-
+![Alt text](image.png)
