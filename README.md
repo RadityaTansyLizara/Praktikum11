@@ -158,4 +158,5 @@ while True:
     else:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
 ## Hasil
-![Alt text](image.png)
+![sspraktikum11](https://github.com/RadityaTansyLizara/Praktikum11/assets/147571863/9b1e40f0-0a9c-4b75-b728-12af9888cb14)
+
