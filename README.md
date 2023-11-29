@@ -15,6 +15,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 * Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 * Buat flowchart dan penjelasan programnya pada README.md
 ## Program
+```python
 list = {}
 
 def garis():
@@ -158,5 +159,4 @@ while True:
     else:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
 ## Hasil
-![sspraktikum11](https://github.com/RadityaTansyLizara/Praktikum11/assets/147571863/9b1e40f0-0a9c-4b75-b728-12af9888cb14)
-
+![Alt text](image.png)
