@@ -128,9 +128,10 @@ while True:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(menu))
 ```
 ## Penjelasan
-Pada dasar ny program ini sama seperti di Pertemuan-10, bedanya di program ini di tambahkan Function / Sub rutin. Seperti program ada di atas def yg berati definision, & contoh def garis() Untuk membuat fungsi garis yg di panggil dari print("~"*80).
+Pada dasar ny program ini sama seperti di Pertemuan-10, bedanya di program ini di tambahkan `Function` / Sub rutin.
+Seperti program ada di atas `def` yg berati definision, & contoh `def garis()` Untuk membuat fungsi garis yg di panggil dari `print("~"*80)`.
 
-Kalau def tambah(), def ubah(), def hapus(), def cari(), def lihat() di panggil dari program berikut :
+Kalau `def tambah()`, `def ubah()`, `def hapus()`, `def cari()`, `def lihat()` di panggil dari program berikut :
 ```python
 while True: 
     print()
